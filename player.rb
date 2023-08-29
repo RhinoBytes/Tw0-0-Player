@@ -1,20 +1,3 @@
-# create class named player
-# add a getter / setter for name and lives
-# function that takes in a name and sets the lives to 3
-
-
-# take turn function sets question = MathQuestion.new
-# prints "heres you question name"
-#  prints the question
-# answer = chomp 
-# if statement is true puts correct!
-# if question false, puts losing a lfie and call lost_life
-
-# lost life functiion
-# life -= 1
-
-
-
 class Player
   attr_reader :name, :lives
 

@@ -1,15 +1,3 @@
-# class Game
-
-# function that creates new players
-# sets turns to 0
-
-# function that starts the game 
-  # create a do loop
-    # puts current turn + 1
-    # 
-
-
-
 class Game
   def initialize
     @players = [Player.new('Player 1'), Player.new('Player 2')]
